@@ -11,7 +11,6 @@ int main(){
     printf("Strings: %c\n", letras);
     printf("\n");
 
-    printf("Aperte ENTER para parar o programa.\n");
-    getch();
+    getchar("Aperte ENTER para parar o programa.\n);
     return 0;
 }
